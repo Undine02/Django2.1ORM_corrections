@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="PIL.EpsImagePlugin.*" />
+          <option value="PSYCOP.query.*" />
+          <option value="PSYCOP.psy.Class" />
+          <option value="scrapping.ARTICLES_LIST_ALL" />
+          <option value="scrapping.GA1" />
+          <option value="scrapping.mobile" />
+          <option value="scrapping.ua" />
+          <option value="scrapping.navigate" />
+          <option value="scrapping.qZyNZhUgblOQJvD5vdmtE4BN6w" />
+          <option value="scrapping.Mozilla" />
+          <option value="scrapping.Win64" />
+          <option value="scrapping.x64" />
+          <option value="scrapping.AppleWebKit" />
+          <option value="scrapping.like" />
+          <option value="scrapping.Gecko" />
+          <option value="scrapping.Chrome" />
+          <option value="scrapping.Safari" />
+          <option value="scrapping.User" />
+          <option value="scrapping.ALNI_MYKvHcaV4SWfZmCb3_wXDx2olu6kw" />
+          <option value="main.Class" />
+          <option value="psy.install" />
+          <option value="app.views" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
